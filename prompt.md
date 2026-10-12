@@ -31,169 +31,52 @@ Hãy thực thi các yêu cầu sau:
 ---
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 1]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 1 - Đắk Lắk
-- **Số Tòa nhà:** 02
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 1 - Điện Biên
+- **Số Tòa nhà:** 01
 - **Tầng vẽ:** 1
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DakLak/DakLak1/Tang1
+- **Thư mục lưu file:** DienBien/DienBien1/Tang1
 
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 1]
-1. Tòa 1
-- Phòng101
-KT: 3,9 x 5,3m
-SL người: 1
-- Phòng102
-KT: 7,8 x 5,3m
-SL người: 2
-- Phòng104
-KT: 3,9 x 5,3m
-SL người: 1
-- Hội trường A
-KT: 10 x 7,6m
-- Hội trường B
-KT: 7 x 7,6m
-- Hội trường C
-KT: 7,8 x 5,3m
-- Hội trường D
-KT: 7 x 7,6m
-- Phòng nghị án tầng 1
-KT: 3,9 x 5,3m
+- Phòng xét xử
+KT: 11,9m x 6,2m
 
-2. Tòa 2 (mặt sau)
+- Phòng nghị án
+KT: 3,6m x 6,2m
 
-- Phòng
-KT: 4,6 x 5,1
-SL người: 1
-- Phòng
-KT: 4,6 x 5,1
-SL người: 2
-- Phòng
-KT: 4,6 x 5,1
-SL người: 1
-- Phòng
-KT: 4,6 x 5,1
-SL người: 2
-- Phòng
-KT: 4,6 x 5,1
-SL người: 1
-- Phòng
-KT: 4,6 x 5,1
-SL người: 1
-- Phòng
-KT: 4,6 x 5,1
-SL người: 1
+
 
 ----
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 2]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 1 - Đắk Lắk
-- **Số Tòa nhà:** 02
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 6 - Đắk Lắk
+- **Số Tòa nhà:** 01
 - **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DaKLak/DakLak1/Tang2
+- **Thư mục lưu file:** DaKLak/DakLak6/Tang2
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
-1. Tòa 1:
-- Phòng 201
-KT: 3,9 x 5,3m
-SL người: 1
-- Phòng 202
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 203
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 204
-KT: 3,9 x 5,3m
-SL người: 1
-- Phòng 205
-KT: 3,9 x 5,3m
-SL người: 1
-- Phòng 206
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 207
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 208
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 209
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 210
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 211
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 301
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 302
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 303
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 304 (Hội trường giao ban)
-KT: 7,8 x 5,3m
-- Phòng 305
-KT: 3,9 x 5,3m
-SL người: 2
-- Phòng 306
-KT: 3,9 x 5,3m
-SL người: 1
-- Phòng 309
-KT: 3,9 x 5,3m
-SL người: 0
-- Phòng nghị án tầng 2
-KT: 3,9 x 5,3m
 
-2. Tòa 2 (mặt sau)
-- Phòng
-KT: 4,6 x 5,1
+- Phòng kế toán
+KT: 3,6m x 3,3m
 SL người: 1
-- Phòng
-KT: 4,6 x 5,1
+- Phòng kế toán
+KT: 3,6m x 6,2m
 SL người: 1
-- Phòng
-KT: 4,6 x 5,1
-SL người: 2
-- Phòng
-KT: 4,6 x 5,1
-SL người: 2
-- Phòng
-KT: 4,6 x 5,1
-SL người: 2
-- Phòng
-KT: 4,6 x 5,1
-SL người: 2
-- Phòng
-KT: 4,6 x 5,1
-SL người: 1
-- Phòng họp
-KT: 4,6 x 5,1
-SL người: 1
-
-
-
-----
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 3]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 1 - Đắk Lắk
-- **Số Tòa nhà:** 02
-- **Tầng vẽ:** 3
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 6 - Đắk Lắk
+- **Số Tòa nhà:** 01
+- **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DaKLak/DakLak1/Tang3
+- **Thư mục lưu file:** DaKLak/DakLak6/Tang2
 
-### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 3]
-1. Tòa 1:
-- Phòng hòa giải đối thoại (tầng 3)
-KT: 7,8 x 5,3m
-- Phòng nghị án tầng 3
-KT: 3,9 x 5,3m
+### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
 
-2. Tòa 2 (mặt sau):
-- Mái che (do không có tầng 3)
+- Phòng kế toán
+KT: 3,6m x 3,3m
+SL người: 1
+- Phòng kế toán
+KT: 3,6m x 6,2m
+SL người: 1
