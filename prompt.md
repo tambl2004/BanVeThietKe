@@ -31,52 +31,53 @@ Hãy thực thi các yêu cầu sau:
 ---
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 6 - Cà Mau
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 9 - Cà Mau
 - **Số Tòa nhà:** 02
-- **Tầng vẽ:** 3
+- **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** CaMau/CanMau6/Tang3
+- **Thư mục lưu file:** CaMau/CanMau9/Tang2
 
 ---
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG]
 1. Tòa 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Tp Phương
+KT: 4,8m x 3,5m
+SL người: 2
+Tp. Bình
+KT: 4,8m x 4m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Tp Đào
+KT: 4,8m x 3,5m
+SL người: 2
+Tp. Tồn
+KT: 4,8m x 3,5m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Kho lưu trữ
+KT: 6m x 4,5m
+Kho lưu trữ
+KT: 6m x 4,5m
+Tp. Quy
+KT: 5m x 4m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Tp Thu
+KT: 8m x 5m
+SL người: 3
+Tp Kiệt
+KT: 5m x3,5m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Tp Diễm
+KT: 6m x 3,5m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Thư ký
+KT: 4m x 3m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Tp Tú Anh
+KT: 5m x 4m
 SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
+Tp Nhi
+KT: 6m x 4m
 SL người: 1
-
-
-2. Tòa xét xử
-- Phòng làm việc
-KT: 6,3m x 3,6m
-SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
-SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
-SL người: 1
-- Phòng làm việc
-KT: 6,3m x 3,6m
-SL người: 1
+2. Tòa 2 (xét xử mặt sau)
+- Xét xử
+KT: 12m x 6m

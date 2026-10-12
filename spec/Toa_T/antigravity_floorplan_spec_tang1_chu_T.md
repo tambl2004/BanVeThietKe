@@ -24,13 +24,9 @@ Tài liệu này định nghĩa toàn bộ quy tắc hình học, bộ mã màu,
 * **Hành lang trung tâm Tòa 2**: `Y: 9.5m` đến `11.0m` (rộng `1.5m`, tô màu `#eef4f7`, ghi nhãn `HÀNH LANG`), nối thẳng vuông góc từ sảnh dọc trung tâm (`X: 13.5m` đến `18.5m`).
 * **Danh mục 5 phòng Tòa 2 (Phân bổ 2 bên hành lang trung tâm Tòa 2, ghi trên 1 dòng đơn)**:
   * **Dãy phòng phía Bắc Tòa 2 (`Y: 11.0m` đến `14.5m`)**:
-    1. `Phòng Thẩm phán` ($X: 3.5 \to 13.5m$)
-    2. `Phòng Thư ký` ($X: 18.5 \to 23.5m$)
-    3. `Phòng Thẩm phán` ($X: 23.5 \to 28.5m$)
-  * **Dãy phòng phía Nam Tòa 2 (`Y: 6.2m` đến `9.5m`)**:
-    4. `Phòng Thư ký` ($X: 3.5 \to 13.5m$)
-    5. `Phòng Thẩm phán` ($X: 18.5 \to 28.5m$)
 
+  * **Dãy phòng phía Nam Tòa 2 (`Y: 6.2m` đến `9.5m`)**:
+   
 ---
 
 ## 2. BỘ MÃ MÀU & ĐỒ HỌA (COLOR PALETTE)
