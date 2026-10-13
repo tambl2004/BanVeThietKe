@@ -31,52 +31,96 @@ Hãy thực thi các yêu cầu sau:
 ---
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 1]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 1 - Điện Biên
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 5 - Điện Biên
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 1
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DienBien/DienBien1/Tang1
+- **Thư mục lưu file:** DienBien/DienBien5/Tang1
 
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 1]
-- Phòng xét xử
-KT: 11,9m x 6,2m
-
-- Phòng nghị án
-KT: 3,6m x 6,2m
-
-
+1. Tòa 1
+- Phòng Hành chính tư pháp
+KT: 10 x 6,6
+SL người: 4
+- Phòng Chánh văn phòng
+KT: 5 x 4,5
+SL người: 1
+- Phòng Văn thư
+KT: 5 x 4,5
+SL người: 1
+- Phòng Phó Chánh án
+KT: 4,5 x 3
+SL người: 1
+- Phòng Thư ký
+KT: 4,5 x 3
+SL người: 1
+- Phòng Tiếp công dân
+KT: 4,5 x 3
+- Phòng hoà giải đối thoại
+KT: 6,5 x 3
+2. Tòa 2 (mặt sau)
+- Phòng nhị án 1
+KT: 6,5 x 3
+- Phòng giam phạm nhân 1
+KT: 6,5 x 3
 
 ----
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 2]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 6 - Đắk Lắk
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 5 - Điện Biên
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DaKLak/DakLak6/Tang2
+- **Thư mục lưu file:** DienBien/DienBien5/Tang2
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
-
-- Phòng kế toán
-KT: 3,6m x 3,3m
+1. Tòa 1
+- Phòng Chánh án
+KT: 10 x 6,6
+SL người: 1
+- Phòng thư ký- Phòng 
+KT: 5 x 4,5
 SL người: 1
 - Phòng kế toán
-KT: 3,6m x 6,2m
+KT: 5 x 4,5
 SL người: 1
+- Phòng thư ký
+KT: 4,5 x 3
+SL người: 1
+- Phòng Kho 1
+KT: 4,5 x 3
+- Phòng mạng
+KT: 4,5 x 3
+- Phòng Kho 2
+KT: 6,5 x 3
+2. Tòa 2
+- Phòng nghị án 2
+KT: 6,5 x 3
+- Phòng giam phạm 2
+KT: 6,5 x 3
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 3]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 6 - Đắk Lắk
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 5 - Điện Biên
 - **Số Tòa nhà:** 01
-- **Tầng vẽ:** 2
+- **Tầng vẽ:** 3
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DaKLak/DakLak6/Tang2
+- **Thư mục lưu file:** DienBien/DienBien5/Tang3
 
-### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
-
-- Phòng kế toán
-KT: 3,6m x 3,3m
+### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 3]
+1. Tòa 1
+- Phòng Phó chánh án
+KT: 10 x 6,6
 SL người: 1
-- Phòng kế toán
-KT: 3,6m x 6,2m
+- Phòng Phó chánh án
+KT: 5 x 4,5
 SL người: 1
+- Phòng Thẩm tra viên chính
+KT: 5 x 4,5
+SL người: 1
+- Phòng họp
+KT: 10 x 4,5
+- Phòng làm việc
+KT: 6,5 x 3
+2. Tòa 2 
+(Mái che)
