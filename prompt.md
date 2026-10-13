@@ -31,96 +31,109 @@ Hãy thực thi các yêu cầu sau:
 ---
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 1]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 5 - Điện Biên
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 4 - Đồng Nai
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 1
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DienBien/DienBien5/Tang1
+- **Thư mục lưu file:** DongNai/DongNai4/Tang1
 
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 1]
 1. Tòa 1
-- Phòng Hành chính tư pháp
-KT: 10 x 6,6
+- Phòng tiếp dân
+KT: 7,6*3,6
+SL người: 2
+- Phòng hòa giải
+KT: 6,2*2,9
 SL người: 4
-- Phòng Chánh văn phòng
-KT: 5 x 4,5
+- Phòng kế toán
+KT: 5*4
 SL người: 1
-- Phòng Văn thư
-KT: 5 x 4,5
+- Phòng Thẩm phán
+KT: 5*4
 SL người: 1
-- Phòng Phó Chánh án
-KT: 4,5 x 3
-SL người: 1
-- Phòng Thư ký
-KT: 4,5 x 3
-SL người: 1
-- Phòng Tiếp công dân
-KT: 4,5 x 3
-- Phòng hoà giải đối thoại
-KT: 6,5 x 3
-2. Tòa 2 (mặt sau)
-- Phòng nhị án 1
-KT: 6,5 x 3
-- Phòng giam phạm nhân 1
-KT: 6,5 x 3
+- Phòng xét xử B
+KT: 7,2*3,5
+- Phòng xét xử A
+KT: 8,4*7
 
-----
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 2]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 5 - Điện Biên
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 4 - Đồng Nai
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DienBien/DienBien5/Tang2
+- **Thư mục lưu file:** DongNai/DongNai4/Tang2
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
 1. Tòa 1
+- Phòng Thẩm phán
+KT: 5*3
+SL người: 1
+- Phòng Thẩm phán
+KT: 5*3,3
+SL người: 1
 - Phòng Chánh án
-KT: 10 x 6,6
+KT: 6,2*5
 SL người: 1
-- Phòng thư ký- Phòng 
-KT: 5 x 4,5
-SL người: 1
-- Phòng kế toán
-KT: 5 x 4,5
-SL người: 1
+- Phòng thư ký nữ
+KT: 8,4*5
+SL người: 5
 - Phòng thư ký
-KT: 4,5 x 3
-SL người: 1
-- Phòng Kho 1
-KT: 4,5 x 3
-- Phòng mạng
-KT: 4,5 x 3
-- Phòng Kho 2
-KT: 6,5 x 3
-2. Tòa 2
-- Phòng nghị án 2
-KT: 6,5 x 3
-- Phòng giam phạm 2
-KT: 6,5 x 3
+KT: 5*3
+SL người: 2
+- Phòng xét xử C
+KT: 7,2*3,5
+
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 3]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 5 - Điện Biên
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 4 - Đồng Nai
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 3
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DienBien/DienBien5/Tang3
+- **Thư mục lưu file:** DongNai/DongNai4/Tang3
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 3]
 1. Tòa 1
-- Phòng Phó chánh án
-KT: 10 x 6,6
+- Phòng Phó Chánh án
+KT: 5*3
 SL người: 1
-- Phòng Phó chánh án
-KT: 5 x 4,5
+- Phòng Thẩm phán
+KT: 5*3
 SL người: 1
-- Phòng Thẩm tra viên chính
-KT: 5 x 4,5
+- Phòng Thẩm phán
+KT: 5*3
+SL người: 2
+- Phòng Thẩm phán
+KT: 5*3
 SL người: 1
-- Phòng họp
-KT: 10 x 4,5
-- Phòng làm việc
-KT: 6,5 x 3
-2. Tòa 2 
-(Mái che)
+- Phòng thư ký nam
+KT: 8*5
+SL người: 5
+- Phòng kế toán
+KT: 6,4*3
+SL người: 1
+- Phòng thẩm phán
+KT: 6,4*3
+SL người: 1
+- Phòng thẩm phán
+KT: 6,4*3
+SL người: 1
+- Phòng thẩm phán
+KT: 6,7*3
+SL người: 1
+- Phòng thẩm phán
+KT: 6,7*3
+SL người: 1
+- Phòng thẩm phán
+KT: 6,7*3
+SL người: 1
+- Phòng thẩm phán
+KT: 5*4,1
+SL người: 1
+- Phòng Phó Chánh án
+KT: 5*4,1
+SL người: 1
+- Phòng Phó Chánh án
+KT: 5*3
+SL người: 1
