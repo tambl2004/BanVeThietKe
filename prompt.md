@@ -30,110 +30,84 @@ Hãy thực thi các yêu cầu sau:
 
 ---
 
+
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 1]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 4 - Đồng Nai
-- **Số Tòa nhà:** 01
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 8 - Đồng Nai
+- **Số Tòa nhà:** 02
 - **Tầng vẽ:** 1
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DongNai/DongNai4/Tang1
+- **Thư mục lưu file:** DongNai/DongNai8/Tang1
 
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 1]
 1. Tòa 1
-- Phòng tiếp dân
-KT: 7,6*3,6
+- Văn phòng
+KT: 3 x 7,2
+SL người: 1
+- Phòng Chánh văn phòng
+KT: 3,6 x 5
 SL người: 2
-- Phòng hòa giải
-KT: 6,2*2,9
-SL người: 4
-- Phòng kế toán
-KT: 5*4
-SL người: 1
-- Phòng Thẩm phán
-KT: 5*4
-SL người: 1
-- Phòng xét xử B
-KT: 7,2*3,5
-- Phòng xét xử A
-KT: 8,4*7
+- Hội trường xét xử A
+KT: 6 x 7
+SL người: 0
 
+2. Tòa 2
+- Phòng số 5
+KT: 3,3 x 3,4
+SL người: 1
+- Phòng số 6
+KT: 3,3 x 7,7
+SL người: 4
+- Hội trường xét xử B
+KT: 10 x 7,2
+SL người: 0
+
+----
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 2]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 4 - Đồng Nai
-- **Số Tòa nhà:** 01
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 8 - Đồng Nai
+- **Số Tòa nhà:** 02
 - **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DongNai/DongNai4/Tang2
+- **Thư mục lưu file:** DongNai/DongNai8/Tang2
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
 1. Tòa 1
-- Phòng Thẩm phán
-KT: 5*3
+- Phòng Phó Chánh Án
+KT: 3m x 7,2m
 SL người: 1
-- Phòng Thẩm phán
-KT: 5*3,3
+- Phòng Chánh Án
+KT: 3 x 7,2
 SL người: 1
-- Phòng Chánh án
-KT: 6,2*5
-SL người: 1
-- Phòng thư ký nữ
-KT: 8,4*5
-SL người: 5
-- Phòng thư ký
-KT: 5*3
+- Phòng số 1
+KT: 3,4  x 5,7
+SL người: 4
+- Phòng số 2
+KT: 3,4 x 5,7
 SL người: 2
-- Phòng xét xử C
-KT: 7,2*3,5
+- Phòng số 3
+KT: 3,4 x 5,7
+SL người: 0
+- Phòng số 4
+KT: 4,8 x 6,6
+SL người: 4
+- Phòng họp
+KT: 6,8 x 7,9
+SL người: 0
 
-
-### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 3]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 4 - Đồng Nai
-- **Số Tòa nhà:** 01
-- **Tầng vẽ:** 3
-- **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DongNai/DongNai4/Tang3
-
-### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 3]
-1. Tòa 1
-- Phòng Phó Chánh án
-KT: 5*3
-SL người: 1
-- Phòng Thẩm phán
-KT: 5*3
-SL người: 1
-- Phòng Thẩm phán
-KT: 5*3
+2. Tòa 2
+- Phòng số 7
+KT: 3,3 x 7,2
+SL người: 0
+- Phòng số 8
+KT: 3,3 x 7,2
 SL người: 2
-- Phòng Thẩm phán
-KT: 5*3
-SL người: 1
-- Phòng thư ký nam
-KT: 8*5
-SL người: 5
-- Phòng kế toán
-KT: 6,4*3
-SL người: 1
-- Phòng thẩm phán
-KT: 6,4*3
-SL người: 1
-- Phòng thẩm phán
-KT: 6,4*3
-SL người: 1
-- Phòng thẩm phán
-KT: 6,7*3
-SL người: 1
-- Phòng thẩm phán
-KT: 6,7*3
-SL người: 1
-- Phòng thẩm phán
-KT: 6,7*3
-SL người: 1
-- Phòng thẩm phán
-KT: 5*4,1
-SL người: 1
-- Phòng Phó Chánh án
-KT: 5*4,1
-SL người: 1
-- Phòng Phó Chánh án
-KT: 5*3
-SL người: 1
+- Phòng số 9
+KT: 3,3 x 7,2
+SL người: 2
+- Phòng số 10
+KT: 3,3 x 7,2
+SL người: 2
+- Phòng số 11
+KT: 3,3 x 7,2
+SL người: 0
