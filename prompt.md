@@ -31,83 +31,70 @@ Hãy thực thi các yêu cầu sau:
 ---
 
 
+
+
+
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 1]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 8 - Đồng Nai
-- **Số Tòa nhà:** 02
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 3 - An Giang
+- **Số Tòa nhà:** 01
 - **Tầng vẽ:** 1
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DongNai/DongNai8/Tang1
+- **Thư mục lưu file:** AnGiang/AnGiang3/Tang1
 
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 1]
 1. Tòa 1
-- Văn phòng
-KT: 3 x 7,2
+- Phòng làm việc chánh án
+KT: 5x6,5m
 SL người: 1
-- Phòng Chánh văn phòng
-KT: 3,6 x 5
-SL người: 2
-- Hội trường xét xử A
-KT: 6 x 7
-SL người: 0
+- Phòng phó chánh án
+KT: 4x5,5
+- Phòng 3
+KT: 4x5
+- Phòng 4
+KT: 4x5
+- Phòng 5
+KT: 4x5
+- Phòng 6
+KT: 4x5
+- Phòng thẩm phán
+KT: 4x5
+- Phòng thẩm phán
+KT: 4x5
+- Phòng 7
+KT: 4x5
+- Phòng 8
+KT: 4x5
 
-2. Tòa 2
-- Phòng số 5
-KT: 3,3 x 3,4
-SL người: 1
-- Phòng số 6
-KT: 3,3 x 7,7
-SL người: 4
-- Hội trường xét xử B
-KT: 10 x 7,2
-SL người: 0
 
 ----
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 2]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 8 - Đồng Nai
-- **Số Tòa nhà:** 02
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 3 - An Giang
+- **Số Tòa nhà:** 01
 - **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** DongNai/DongNai8/Tang2
+- **Thư mục lưu file:** AnGiang/AnGiang3/Tang2
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
 1. Tòa 1
-- Phòng Phó Chánh Án
-KT: 3m x 7,2m
-SL người: 1
-- Phòng Chánh Án
-KT: 3 x 7,2
-SL người: 1
-- Phòng số 1
-KT: 3,4  x 5,7
-SL người: 4
-- Phòng số 2
-KT: 3,4 x 5,7
-SL người: 2
-- Phòng số 3
-KT: 3,4 x 5,7
-SL người: 0
-- Phòng số 4
-KT: 4,8 x 6,6
-SL người: 4
-- Phòng họp
-KT: 6,8 x 7,9
-SL người: 0
-
-2. Tòa 2
-- Phòng số 7
-KT: 3,3 x 7,2
-SL người: 0
-- Phòng số 8
-KT: 3,3 x 7,2
-SL người: 2
-- Phòng số 9
-KT: 3,3 x 7,2
-SL người: 2
-- Phòng số 10
-KT: 3,3 x 7,2
-SL người: 2
-- Phòng số 11
-KT: 3,3 x 7,2
-SL người: 0
+- Phòng thẩm phán
+KT: 4,4x5
+- Phòng thư ký
+KT: 4,4x5
+- Phòng 9
+KT: 4,4x5
+- Phòng 10
+KT: 4,4x5
+- Phòng 11
+KT: 4,4x5
+- Phòng phó chánh án
+KT: 4,4x5
+- Phòng 12
+KT: 4,4x5
+- Phòng phó chánh án
+KT: 4,4x5
+- Phòng 13
+KT: 4,4x5
+- Phòng 14
+KT: 4,4x5
