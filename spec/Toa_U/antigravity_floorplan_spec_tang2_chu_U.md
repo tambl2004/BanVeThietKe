@@ -3,7 +3,7 @@
 ## 1. Tổng quan Tầng 2
 - **Tòa A:** Khối làm việc chính 3 tầng, Tầng 2 gồm đúng **5 phòng khảo sát** từ `prompt.md`. Tất cả các phòng được **mở rộng kích thước to lên**, phủ kín toàn bộ diện tích phía Bắc và phía Nam của Tòa A, **triệt tiêu hoàn toàn khoảng trống thừa**.
 - **Tòa B:** Khối làm việc dọc, Tầng 2 gồm đúng **4 phòng khảo sát** từ `prompt.md` + Cầu thang bộ + Khoảng đệm hành lang 2.0m. Phòng phó Chánh án Trần Xuân Suốt được bố trí rộng to toàn bộ chiều rộng Tòa B ($12.0m \times 7.0m$) ở phía dưới cùng.
-- **Tòa C & Tòa Xét Xử:** Khối 1 tầng, trên Tầng 2 được thể hiện là **MÁI CHE**.
+- **Tòa Xét Xử:** Khối 1 tầng, trên Tầng 2 được thể hiện là **MÁI CHE**.
 
 ---
 

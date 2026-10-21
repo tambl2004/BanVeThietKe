@@ -30,71 +30,131 @@ Hãy thực thi các yêu cầu sau:
 
 ---
 
-
-
-
-
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 1]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 3 - An Giang
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 9 - Thanh Hóa
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 1
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** AnGiang/AnGiang3/Tang1
+- **Thư mục lưu file:** ThanhHoa/ThanhHoa9/Tang1
 
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 1]
-1. Tòa 1
-- Phòng làm việc chánh án
-KT: 5x6,5m
+1. Tòa A1
+- Phòng tiếp dân
+KT: 4x6
+SL người: 1
+- Phòng xét xử dân sự tầng 1
+KT: 6x13
+
+2. Tòa A2
+- Phòng phó chánh án
+KT: 6x5
+SL người: 1
+- Phòng họp
+KT: 13x5
+- Phòng chánh văn - Phòng
+KT: 4,5x6
+SL người: 1
+- Phòng Thẩm phán
+KT: 4,5x6
+SL người: 1
+- Phòng Kế toán
+KT: 4,5x6
 SL người: 1
 - Phòng phó chánh án
-KT: 4x5,5
-- Phòng 3
-KT: 4x5
-- Phòng 4
-KT: 4x5
-- Phòng 5
-KT: 4x5
-- Phòng 6
-KT: 4x5
-- Phòng thẩm phán
-KT: 4x5
-- Phòng thẩm phán
-KT: 4x5
-- Phòng 7
-KT: 4x5
-- Phòng 8
-KT: 4x5
+KT: 5x7
+SL người: 1
+- Phòng chánh án
+KT: 5x7
+SL người: 1
+- Phòng thư ký
+KT: 4x6
+SL người: 1
 
 
-----
+
+3. Tòa A3
+- Phòng hoà giải viên
+KT: 4x7
+SL người: 1
+- Phòng hoà giải viên
+KT: 4x7
+SL người: 1
+- Phòng xét xử hình sự
+KT: 6x23
+
 
 ### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 2]
-- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 3 - An Giang
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 9 - Thanh Hóa
 - **Số Tòa nhà:** 01
 - **Tầng vẽ:** 2
 - **Chiều cao tầng:** 4m
-- **Thư mục lưu file:** AnGiang/AnGiang3/Tang2
+- **Thư mục lưu file:** ThanhHoa/ThanhHoa9/Tang2
 
 ### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 2]
-1. Tòa 1
-- Phòng thẩm phán
-KT: 4,4x5
+1. Tòa A1
+- Phòng xét xử dân sự tầng 2
+KT: 6x13
 - Phòng thư ký
-KT: 4,4x5
-- Phòng 9
-KT: 4,4x5
-- Phòng 10
-KT: 4,4x5
-- Phòng 11
-KT: 4,4x5
+KT: 6x4
+SL người: 1
+- Phòng hoà giải
+KT: 6x4
+- Phòng thư ký
+KT: 4x6
+- Phòng thư ký
+KT: 4x6
+
+2. Tòa A2
+- Phòng thẩm phán
+KT: 4x6
+SL người: 1
+- Phòng thẩm phán
+KT: 4x6
+SL người: 1
+- Phòng họp
+KT: 6x15
 - Phòng phó chánh án
-KT: 4,4x5
-- Phòng 12
-KT: 4,4x5
+KT: 6x7
+SL người: 1
+- Phòng thư ký
+KT: 6x3,5
+SL người: 1
+
+3. Tòa A3
+(Mái che)
+
+### [THÔNG TIN CÔNG TRÌNH & ĐỊA ĐIỂM Tầng 3]
+- **Tên Tòa án / Địa điểm:** Tòa án nhân dân khu vực 9 - Thanh Hóa
+- **Số Tòa nhà:** 01
+- **Tầng vẽ:** 3
+- **Chiều cao tầng:** 4m
+- **Thư mục lưu file:** ThanhHoa/ThanhHoa9/Tang3
+
+### [BẢNG SỐ LIỆU KHẢO SÁT PHÒNG Tầng 3]
+1. Tòa A1
+(Mái che)
+2. Tòa A2
 - Phòng phó chánh án
-KT: 4,4x5
-- Phòng 13
-KT: 4,4x5
-- Phòng 14
-KT: 4,4x5
+KT: 6x8
+SL người: 1
+- Phòng thẩm phán
+KT: 4x6
+SL người: 1
+- Phòng thư ký
+KT: 4x6
+SL người: 1
+- Phòng thư ký
+KT: 4x6
+SL người: 1
+- Phòng lưu trữ
+KT: 4x6
+- Phòng phó chánh văn phòng
+KT: 4x6
+SL người: 1
+- Phòng số hoá
+KT: 3,5x6
+SL người: 1
+
+3. Tòa A3
+(Mái che)

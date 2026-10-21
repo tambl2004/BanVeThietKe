@@ -7,7 +7,7 @@
   - **Phòng trống:** Nằm ở góc phía Bắc ($5.0m \times 6.5m$).
   - **Cầu thang bộ Tòa B:** Nằm ở giữa phía Đông ($5.0m \times 6.5m$).
   - **Hành lang:** Bố trí thông suốt từ Bắc xuống Nam, tạo khoảng đệm thông thoáng nối vào cửa chính Phòng thẩm phán.
-- **Tòa C & Tòa Xét Xử:** Khối 1 tầng, trên Tầng 3 được thể hiện là **MÁI CHE**.
+- **Tòa Xét Xử:** Khối 1 tầng, trên Tầng 3 được thể hiện là **MÁI CHE**.
 
 ---
 

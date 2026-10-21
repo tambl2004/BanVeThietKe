@@ -2,8 +2,7 @@
 
 Tài liệu này định nghĩa toàn bộ quy tắc hình học kết cấu, bộ mã màu, đồ họa vách tường và phân bổ danh mục phòng chuẩn dành riêng cho công trình **Tòa án nhân dân khu vực 9 - Bắc Ninh (Tầng 1)** với cấu trúc cụm 4 tòa nhà chuẩn hóa theo bản vẽ kiến trúc:
 - **Tòa A** (Khối nhà chính phía Bắc nằm ngang): Bố trí chuẩn theo kiểu nhà H/T 2 dãy phòng đối xứng qua Sảnh & Cầu thang bộ trung tâm, bổ sung đầy đủ tường vách ngăn dọc ngăn cách Sảnh trung tâm với các phòng làm việc xung quanh.
-- **Tòa Xét xử** (Khối nhà xét xử 1 tầng phía Bắc): Nối thông trực tiếp với hành lang Tòa A qua cầu nối (không lắp cửa đi, thông thoáng hoàn toàn).
-- **Tòa B & Tòa C** (Hai khối nhà dọc cánh Tây và cánh Đông):
+- **Tòa B & Tòa xét xử** (Hai khối nhà dọc cánh Tây và cánh Đông):
   - Khối nhà vuông vắn hình chữ nhật đầy đủ tường bao 2 bên.
   - Được nâng dịch lên phía trên (`DY_BC = +1.0m`), tạo khoảng cách sân trung tâm cân đối.
   - Toàn bộ **cửa đi phòng làm việc mở quay vào trong lòng phòng**, giữ hành lang đứng hoàn toàn thông thoáng.
@@ -30,15 +29,7 @@ Tài liệu này định nghĩa toàn bộ quy tắc hình học kết cấu, b�
     3. Cánh Tây: `Văn phòng` ($X: 0.0 \to 12.0m$).
     4. Cánh Đông: `Phòng Chánh văn phòng Nguyễn Thị Quế` ($X: 18.0 \to 24.0m$), `Phòng phó Chánh văn phòng Nguyễn Thanh Thuý` ($X: 24.0 \to 30.0m$).
 
-### B. Tòa Xét xử (Khối nhà xét xử lớn — Đặt bên phải cạnh Tòa A, 1 Tầng):
-* **Cấu trúc & Kích thước**:
-  - Nằm ở phía Bắc bên phải: `X: 32.0m` đến `48.0m`, `Y: 6.1m` đến `16.4m` (`DY_A = +11.0m`).
-  - Cầu hành lang ngang nối Tòa A và Tòa Xét xử tại `X: 30.0m` đến `32.0m`, `Y: 10.1m` đến `11.9m` (**Thông trực tiếp, không đặt cửa**).
-  - Tường Đông và Tây trang bị cửa sổ lớn. Tường Nam trang bị lối ra ngoài có **Bậc thang ra bên ngoài** (`X: 38.0m` đến `42.0m`).
-* **Danh mục phòng**:
-  - `Phòng xét xử` (Hội trường xét xử lớn).
-
-### C. Tòa B (Cánh Tây — Khối nhà dọc 2 Tầng, `DX_B = +18.0m`, `DY_BC = +1.0m`):
+### B. Tòa B (Cánh Tây — Khối nhà dọc 2 Tầng, `DX_B = +18.0m`, `DY_BC = +1.0m`):
 * **Cấu trúc & Kích thước**:
   - Khối nhà dọc phía Tây: `X: 0.0m` đến `12.0m`, `Y: -19.0m` đến `3.0m` (chiều dài 22m chia thành 4 hàng phòng đều nhau 5.5m).
   - Hành lang đứng trung tâm (`X: 5.0m` đến `7.0m`, `Y: -19.0m` đến `3.0m`) **đâm thẳng ra ngoài 2 đầu Bắc & Nam**, trang bị bậc tam cấp lối ra/vào ở cả 2 đầu.
@@ -50,7 +41,7 @@ Tài liệu này định nghĩa toàn bộ quy tắc hình học kết cấu, b�
   - **Hàng 3 (`Y: -14.5m \to -9.0m`)**: `Phòng thẩm phán Lê Thị Lan Hương` (Trái) | `Phòng lưu trữ hồ sơ` (Phải).
   - **Hàng 4 (`Y: -19.0m \to -14.5m`)**: `Phòng thư ký` (Trái) | `Phòng trực / Bảo vệ` (Phải).
 
-### D. Tòa C (Cánh Đông — Khối nhà dọc 1 Tầng, `DX_C = -18.0m`, `DY_BC = +1.0m`):
+### C. Tòa Xét xử (Cánh Đông — Khối nhà dọc 1 Tầng, `DX_C = -18.0m`, `DY_BC = +1.0m`):
 * **Cấu trúc & Kích thước**:
   - Khối nhà dọc phía Đông: `X: 36.0m` đến `48.0m`, `Y: -19.0m` đến `3.0m` (chiều dài 22m chia thành 4 hàng phòng đều nhau 5.5m).
   - Hành lang đứng trung tâm (`X: 41.0m` đến `43.0m`, `Y: -19.0m` đến `3.0m`) **đâm thẳng ra ngoài 2 đầu Bắc & Nam**, trang bị bậc tam cấp lối ra/vào ở cả 2 đầu.
